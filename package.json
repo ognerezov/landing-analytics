@@ -1,0 +1,14 @@
+{
+  "name": "sqs-to-redis",
+  "version": "1.0.0",
+  "main": "sqsToRedis.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sergey Okhotnikov",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "redis": "^4.1.0"
+  }
+}
