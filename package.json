@@ -1,7 +1,7 @@
 {
   "name": "sqs-to-redis",
   "version": "1.0.0",
-  "main": "sqsToRedis.js",
+  "main": "functions/sqsToRedis.js",
   "scripts": {
     "test": "jest"
   },
